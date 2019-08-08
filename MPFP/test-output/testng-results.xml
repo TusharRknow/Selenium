@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="44998" started-at="2019-07-11T11:39:13Z" finished-at="2019-07-11T11:39:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="44998" started-at="2019-07-11T11:39:13Z" finished-at="2019-07-11T11:39:58Z">
+      <class name="com.Tests.TestSignOut">
+        <test-method status="PASS" signature="LaunchApp()[pri:0, instance:com.Tests.TestSignOut@5fa07e12]" name="LaunchApp" is-config="true" duration-ms="14647" started-at="2019-07-11T17:09:13Z" finished-at="2019-07-11T17:09:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApp -->
+        <test-method status="PASS" signature="testSignOut()[pri:0, instance:com.Tests.TestSignOut@5fa07e12]" name="testSignOut" duration-ms="25657" started-at="2019-07-11T17:09:27Z" finished-at="2019-07-11T17:09:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSignOut -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:com.Tests.TestSignOut@5fa07e12]" name="closeApp" is-config="true" duration-ms="4659" started-at="2019-07-11T17:09:53Z" finished-at="2019-07-11T17:09:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- com.Tests.TestSignOut -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
